@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **master's project**
+<h3 align="center"> "I'm a chemical engineer. Currently, I am working on my master's project in Data science for innovation. Additionally, I am taking a course in Data science applied to industrial processes." </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
